@@ -1,2 +1,17 @@
-# 과학적분석및 발표
-수업_숙제_냅시당
+# 과학적분석 및 발표 
+----
+
+## 1차 숙제 description 
+서울시 기온 평균 
+
+최고기온 최저기온 
+
+미래 예측 
+
+
+```mermaid
+flowchart TD
+     A[hypothesis] --> B{experiment};
+     B  -- yes --> C[ok];
+     B --No--> D[not ok];
+```
